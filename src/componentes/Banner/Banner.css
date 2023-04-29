@@ -1,9 +1,16 @@
+* {
+    background-color: #dedede;
+}
+
 
 .banner {
-    background-color: #000000;
+    background-color: #dedede;
     text-align: center;
+    
 }
 
 .banner img {
+    padding-top: 35px;
+    width: 250px;
     max-width: 100%;
 }
